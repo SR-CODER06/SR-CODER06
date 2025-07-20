@@ -10,6 +10,12 @@
   </a>
 </p>
 
+<!-- 3D Floating Astronaut -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Saswat0602/Saswat0602/main/assets/astronaut-floating.gif" width="250px" alt="Floating Astronaut" />
+</p>
+
 ```ts
 class Saswat0602 {
   name = 'Saswat Ranjan Mohanty';
@@ -54,6 +60,7 @@ console.log(me.status());
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saswat0602&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saswat0602&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saswat0602&theme=radical" alt="GitHub Profile Summary"/>
 </p>
 
 ---
@@ -65,6 +72,14 @@ console.log(me.status());
 > Integrating real-time features...
 > Mastering the code multiverse 🪐
 ```
+
+---
+
+<!-- Optional: SVG Background -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
 
 ---
 
