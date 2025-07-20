@@ -16,6 +16,12 @@
   <img src="https://raw.githubusercontent.com/Saswat0602/Saswat0602/main/assets/astronaut-floating.gif" width="250px" alt="Floating Astronaut" />
 </p>
 
+<!-- Background Stars Animation -->
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/14268/screenshots/5149947/media/3ba75fe7e463f82f0bb72f3c0e3a5e0d.gif" width="100%" alt="Starry Background"/>
+</p>
+
 ```ts
 class Saswat0602 {
   name = 'Saswat Ranjan Mohanty';
@@ -44,6 +50,12 @@ console.log(me.status());
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,swift,ts,html,css,docker,aws&perline=6" alt="Tech Stack"/>
 </p>
 
+<!-- Waving Developer Lottie -->
+
+<p align="center">
+  <img src="https://assets5.lottiefiles.com/packages/lf20_qp1q7mct.json" width="200" alt="Hello Animation" />
+</p>
+
 ---
 
 ## 🏆 **ACHIEVEMENTS UNLOCKED** 🎮
@@ -61,6 +73,14 @@ console.log(me.status());
   <img src="https://github-readme-stats.vercel.app/api?username=Saswat0602&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saswat0602&theme=radical" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saswat0602&theme=radical" alt="GitHub Profile Summary"/>
+</p>
+
+---
+
+## 🌗 **DAY / NIGHT MODE PREVIEW** 🌞🌙
+
+<p align="center">
+  <img src="https://github.com/Saswat0602/Saswat0602/assets/9151432/27d62e33-8fdf-4c7e-95b8-bbb15e7492a2" width="90%" alt="Day/Night Toggle Preview"/>
 </p>
 
 ---
@@ -94,3 +114,5 @@ console.log(me.status());
 ---
 
 **⭐ Crafted with 💙 & ☕ by [Saswat0602](https://github.com/Saswat0602) ⭐**
+
+---
