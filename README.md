@@ -3,6 +3,7 @@
 ## 🌟 **MEET THE CODE WIZARD** 🧙‍♂️
 
 <!-- Lottie Animation -->
+<img src="https://lottie.host/fce9ec4b-cc3c-4ec2-94a6-1b0b7c93b8b2/5pZbVRsFwY.json" width="150px"/>
 
 <p align="center">
   <a href="#">
