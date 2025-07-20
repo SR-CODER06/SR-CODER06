@@ -2,26 +2,21 @@
 
 ## 🌟 **MEET THE CODE WIZARD** 🧙‍♂️
 
-<!-- Lottie Animation -->
-<img src="https://lottie.host/fce9ec4b-cc3c-4ec2-94a6-1b0b7c93b8b2/5pZbVRsFwY.json" width="150px"/>
-
+<!-- Coder Animation (GIF version of Lottie) -->
 <p align="center">
-  <a href="#">
-    <img src="https://lottie.host/fce9ec4b-cc3c-4ec2-94a6-1b0b7c93b8b2/5pZbVRsFwY.json" width="200px" alt="Coder Animation" />
-  </a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="Coder Animation" />
 </p>
 
-<!-- 3D Floating Astronaut -->
-
+<!-- Floating Astronaut -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Saswat0602/Saswat0602/main/assets/astronaut-floating.gif" width="250px" alt="Floating Astronaut" />
 </p>
 
-<!-- Background Stars Animation -->
-
+<!-- Starry Background GIF (simulated background) -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/14268/screenshots/5149947/media/3ba75fe7e463f82f0bb72f3c0e3a5e0d.gif" width="100%" alt="Starry Background"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" alt="Stars Animation" />
 </p>
+
 
 ```ts
 class Saswat0602 {
