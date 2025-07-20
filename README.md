@@ -1,34 +1,48 @@
----
-
-## 🌟 **MEET THE CODE WIZARD** 🧙‍♂️
-
-<!-- Coder Animation (GIF version of Lottie) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="Coder Animation" />
-</p>
-
-<!-- Floating Astronaut -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Saswat0602/Saswat0602/main/assets/astronaut-floating.gif" width="250px" alt="Floating Astronaut" />
-</p>
-
 <!-- Starry Background GIF (simulated background) -->
+
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" alt="Stars Animation" />
 </p>
 
+<!-- Lottie-style Coder Animation as GIF -->
 
-```ts
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="Coder Animation" />
+</p>
+
+<!-- Additional Floating Dev Animation -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="220px" alt="Floating Dev Animation" />
+</p>
+
+<!-- Another Developer Motion Graphic -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200px" alt="Dev Computer Animation" />
+</p>
+
+<!-- Matrix Code Animation for Flair -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/11bV1oTF3UoEAM/giphy.gif" width="100%" alt="Matrix Animation" />
+</p>
+
+<!-- Meet the Code Wizard -->
+
+## 🌟 MEET THE CODE WIZARD 🧙🏽‍♂️
+
+```js
 class Saswat0602 {
   name = 'Saswat Ranjan Mohanty';
   role = 'SDE-I';
   location = 'India 🇮🇳';
   education = 'MCA Graduate 🎓';
-  skills = ['React ⚛️', 'Node.js 🟢', 'MongoDB 🍃', 'Swift 📱'];
+  skills = ['React ⚛️', 'Node.js 🟢', 'MongoDB 🍃', 'Swift 🧭'];
   coffeeLevel = Infinity;
   motto = 'Code with passion, debug with precision!';
   status() {
-    return '🚀 Building the future, one commit at a time';
+    return 🚀 'Building the future, one commit at a time';
   }
 }
 
@@ -38,77 +52,26 @@ console.log(me.status());
 
 ---
 
-## 🛠️ **TECH ARSENAL** ⚡
-
-<!-- 3D Animated Tech Icons -->
+## 🛠️ TECH ARSENAL ⚡
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,swift,ts,html,css,docker,aws&perline=6" alt="Tech Stack"/>
-</p>
-
-<!-- Waving Developer Lottie -->
-
-<p align="center">
-  <img src="https://assets5.lottiefiles.com/packages/lf20_qp1q7mct.json" width="200" alt="Hello Animation" />
-</p>
-
----
-
-## 🏆 **ACHIEVEMENTS UNLOCKED** 🎮
-
-* 🧠 **MERN Grandmaster** – 100+ Pull Requests Merged
-* 🚀 **Cloud Deployer** – AWS EC2, Render, Vercel Wizard
-* 🔐 **Secure Commando** – Implemented JWT, OAuth, and Firebase Auth
-* 📲 **Chat Architect** – Real-time messaging, calls, and notifications
-
----
-
-## 📊 **GITHUB METRICS** 📈
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saswat0602&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saswat0602&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saswat0602&theme=radical" alt="GitHub Profile Summary"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
 </p>
 
 ---
 
-## 🌗 **DAY / NIGHT MODE PREVIEW** 🌞🌙
+## 🏆 ACHIEVEMENTS UNLOCKED 🎮
 
 <p align="center">
-  <img src="https://github.com/Saswat0602/Saswat0602/assets/9151432/27d62e33-8fdf-4c7e-95b8-bbb15e7492a2" width="90%" alt="Day/Night Toggle Preview"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Saswat0602&theme=radical&no-frame=true&margin-w=10" />
 </p>
-
----
-
-## 💡 **INNOVATION MODE ON** ⚡
-
-```bash
-> Deploying dream stack...
-> Integrating real-time features...
-> Mastering the code multiverse 🪐
-```
-
----
-
-<!-- Optional: SVG Background -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
-
----
-
-## 🌐 **LET'S CONNECT** 🌍
-
-<p align="center">
-  <a href="https://linkedin.com/in/saswat0602"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:saswatr0602@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://twitter.com/saswat0602"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" /></a>
-</p>
-
----
-
-**⭐ Crafted with 💙 & ☕ by [Saswat0602](https://github.com/Saswat0602) ⭐**
 
 ---
